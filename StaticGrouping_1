@@ -1,0 +1,24 @@
+"StaticGrouping_1": {
+                "broadcastFacet": true,
+                "label": "StaticGrouping",
+                "selectMode": "singlerequired",
+                "type": "staticflex",
+                "values": [
+                    {
+                        "display": "Lead Source",
+                        "value": "LeadSource"
+                    },
+                    {
+                        "display": "Stage",
+                        "value": "StageName"
+                    },
+                    {
+                        "display": "Type",
+                        "value": "Type"
+                    },
+                    {
+                        "display": "Opportunity Source",
+                        "value": "Opportunity_Source__c"
+                    }
+                ]
+            }
